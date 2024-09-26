@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/C++DSA"
+		},
+		{
+			"path": "../../../../Downloads/YEAR-2/SEMESTER 2/Web D"
+		},
+		{
+			"path": "../../../../Downloads/YEAR-2/SEMESTER 2/CS203"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"algorithm": "cpp",
+			"climits": "cpp"
+		}
+	}
+}
